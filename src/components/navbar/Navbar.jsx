@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="collide__navbar">
       <div className="collide__navbar-links">
         <div className="collide__navbar-links_logo">
-          <img src={logo} />
+          <img alt="logo" src={logo} />
         </div>
         <div className="collide__navbar-links_container">
           <p><a href="#home">Home</a></p>
