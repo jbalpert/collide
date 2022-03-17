@@ -29,8 +29,8 @@ const Navbar = () => {
         <div className="collide__navbar-menu_container scale-up-center">
           <div className="collide__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
-            <p><a href="#possibility">Open AI</a></p>
-            <p><a href="#features">Case Studies</a></p>
+            <p><a href="#possibility">What's Collide</a></p>
+            <p><a href="#features">Get Involved</a></p>
           </div>
         </div>
         )}
