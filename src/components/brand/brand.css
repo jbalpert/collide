@@ -1,0 +1,31 @@
+.collide__brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.collide__brand div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.collide__umich {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.collide__uiuc {
+    max-width: 110px;
+    max-height: 110px;
+}
+
+.collide__purdue {
+    max-width: 200px;
+    max-height: 200px;
+}
