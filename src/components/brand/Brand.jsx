@@ -5,13 +5,13 @@ import './brand.css';
 const Brand = () => (
   <div className="collide__brand section__padding">
     <div>
-      <img className="collide__umich" src={umich} />
+      <img alt="" className="collide__umich" src={umich} />
     </div>
     <div>
-      <img className="collide__uiuc" src={uiuc} />
+      <img alt="" className="collide__uiuc" src={uiuc} />
     </div>
     <div>
-      <img className="collide__purdue" src={purdue} />
+      <img alt="" className="collide__purdue" src={purdue} />
     </div>
 
   </div>
